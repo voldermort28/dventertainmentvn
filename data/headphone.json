@@ -1,0 +1,96 @@
+{
+  "old": [{
+    "name": "MDR-E9LP",
+    "price": "80000",
+    "priceFalse": "40000"
+  },{
+    "name": "MH410c",
+    "price": "120000",
+    "priceFalse": "60000"
+  },{
+    "name": "MH750",
+    "price": "160000",
+    "priceFalse": "80000"
+  },{
+    "name": "MDREX15AP",
+    "price": "160000",
+    "priceFalse": "80000"
+  },{
+    "name": "MDREX150AP",
+    "price": "160000",
+    "priceFalse": "80000"
+  },{
+    "name": "MDREX155AP",
+    "price": "200000",
+    "priceFalse": "100000"
+  },{
+    "name": "MDRZX110AP",
+    "price": "240000",
+    "priceFalse": "120000"
+  },{
+    "name": "MDRZX310AP",
+    "price": "360000",
+    "priceFalse": "180000"
+  },{
+    "name": "MDRXB50AP",
+    "price": "320000",
+    "priceFalse": "160000"
+  },{
+    "name": "MDRXB55AP",
+    "price": "360000",
+    "priceFalse": "180000"
+  },{
+    "name": "MDRXB250",
+    "price": "360000",
+    "priceFalse": "180000"
+  },{
+    "name": "MDRXB550AP",
+    "price": "480000",
+    "priceFalse": "240000"
+  },{
+    "name": "MDR-NC750",
+    "price": "495000",
+    "priceFalse": "247000"
+  },{
+    "name": "MDR-ZX110",
+    "price": "200000",
+    "priceFalse": "100000"
+  },{
+    "name": "MDR-EX750AP",
+    "price": "495000",
+    "priceFalse": "247000"
+  },{
+    "name": "MDR-XB450AP",
+    "price": "400000",
+    "priceFalse": "200000"
+  }],
+  "new": [{
+    "name": "WI-C300",
+    "price": "990000",
+    "image": "assets/images/upload/WIC300_1.png"
+  },{
+    "name": "WI-C200",
+    "price": "990000",
+    "image": "assets/images/upload/WIC200_1.png"
+  },{
+    "name": "WI-C310",
+    "price": "1190000",
+    "image": "assets/images/upload/WIC310_1.png"
+  },{
+    "name": "WI-C400",
+    "price": "1490000",
+    "image": "assets/images/upload/WIC400_1.png"
+  },{
+    "name": "WI-SP500",
+    "price": "1890000",
+    "image": "assets/images/upload/WISP500_1.png"
+  },{
+    "name": "WH-CH400",
+    "price": "1290000",
+    "image": "assets/images/upload/WHCH400_1.png"
+  },{
+    "name": "WH-CH500",
+    "price": "1990000",
+    "image": "assets/images/upload/WHCH500_1.png"
+  }]
+}

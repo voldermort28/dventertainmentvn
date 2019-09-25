@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'SSTVietnamese-Roman';
+  src: url("../fonts/SSTVietnamese-Roman.eot?#iefix") format("embedded-opentype"), url("../fonts/SSTVietnamese-Roman.otf") format("opentype"), url("../fonts/SSTVietnamese-Roman.woff") format("woff"), url("../fonts/SSTVietnamese-Roman.ttf") format("truetype"), url("../fonts/SSTVietnamese-Roman.svg#SSTVietnamese-Roman") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'SFUVAGRounded';
+  src: url("../fonts/SFUVAGRounded.eot?#iefix") format("embedded-opentype"), url("../fonts/SFUVAGRounded.woff") format("woff"), url("../fonts/SFUVAGRounded.ttf") format("truetype"), url("../fonts/SFUVAGRounded.svg#VAGRound") format("svg");
+  font-weight: normal;
+  font-style: normal; }

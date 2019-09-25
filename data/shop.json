@@ -1,0 +1,135 @@
+{
+  "items":[{
+    "address": {
+      "addressRegion":"NORTH",
+      "addressLocality": "Hà Nội",
+      "addressDistrict": "Hoàn Kiếm",
+      "streetAddress":"39 Hai Bà Trưng, Tràng Tiền, Hoàn Kiếm, Hà Nội"
+    },
+    "latitude": 21.0250665,
+    "longitude": 105.8472876,
+    "name": "SC Hoan Kiem",
+    "telephone": ["024 3826 7057"]
+  },{
+    "address": {
+      "addressRegion":"NORTH",
+      "addressLocality": "Hà Nội",
+      "addressDistrict": "Cầu Giấy",
+      "streetAddress":"L3- K9-K10 Vincom Trần Duy Hưng, Cầu Giấy, Hà Nội"
+    },
+    "latitude": 21.0068079,
+    "longitude": 105.7930113,
+    "name": "SC Tran Duy Hung",
+    "telephone": ["024 7300 1661"]
+  },{
+    "address": {
+      "addressRegion":"NORTH",
+      "addressLocality": "Hà Nội",
+      "addressDistrict": "Ba Đình",
+      "streetAddress":"B1-K1, TTTM Vincom Liễu Giai, 29 Liễu Giai, Ba Đình, Hà Nội"
+    },
+    "latitude": 21.0313264,
+    "longitude": 105.8128365,
+    "name": "SC Vincom Liễu Giai",
+    "telephone": ["024 3258 5588"]
+  },{
+    "address": {
+      "addressRegion":"NORTH",
+      "addressLocality": "Hà Nội",
+      "addressDistrict": "Thanh Xuân",
+      "streetAddress":"B1-R2-02B Vincom Royal City, 72A Nguyễn Trãi, Q.Thanh Xuân, TP. Hà Nội"
+    },
+    "latitude": 21.0032184,
+    "longitude": 105.8135744,
+    "name": "SC Royal City",
+    "telephone": ["024 6262 0886"]
+  },{
+    "address": {
+      "addressRegion":"NORTH",
+      "addressLocality": "Hà Nội",
+      "addressDistrict": "Hai Bà Trưng",
+      "streetAddress":"Số 10, đường Tương Lai, Tầng B1, TTTM Times City, 458 Phố Minh Khai, Q. Hai Bà Trưng, TP. Hà Nội"
+    },
+    "latitude": 20.9943625,
+    "longitude": 105.8662691,
+    "name": "SC Times City",
+    "telephone": ["024 3200 7188"]
+  },{
+    "address": {
+      "addressRegion":"NORTH",
+      "addressLocality": "Hà Nội",
+      "addressDistrict": "Cầu Giấy",
+      "streetAddress":"11 Trần Thái Tông, Dịch Vọng, Cầu Giấy, Hà Nội"
+    },
+    "latitude": 21.0356785,
+    "longitude": 105.7873802,
+    "name": "SAMNEC-HNO SC TRAN THAI TONG",
+    "telephone": ["024 3793 9060"]
+  },{
+    "address": {
+      "addressRegion":"SOUTH",
+      "addressLocality": "Hồ Chí Minh",
+      "addressDistrict": "1",
+      "streetAddress":"68-70 Đông Du, P. Bến Nghé, Q. 1, Tp. HCM"
+    },
+    "latitude": 10.7759567,
+    "longitude": 106.702193,
+    "name": "SC Đông Du",
+    "telephone": ["028 3822 3344"]
+  },{
+    "address": {
+      "addressRegion":"SOUTH",
+      "addressLocality": "Hồ Chí Minh",
+      "addressDistrict": "3",
+      "streetAddress":"215A-215B Hai Bà Trưng, P.6, Quận 3, TP.HCM"
+    },
+    "latitude": 10.7866533,
+    "longitude": 106.6910403,
+    "name": "SC Hai Bà Trưng",
+    "telephone": ["028 3820 5741"]
+  },{
+    "address": {
+      "addressRegion":"SOUTH",
+      "addressLocality": "Hồ Chí Minh",
+      "addressDistrict": "1",
+      "streetAddress":"251-253 Trần Hưng Đạo, Quận 1, TP.HCM"
+    },
+    "latitude": 10.7648583,
+    "longitude": 106.6907902,
+    "name": "SC Trần Hưng Đạo",
+    "telephone": ["028 3837 1928"]
+  },{
+    "address": {
+      "addressRegion":"SOUTH",
+      "addressLocality": "Hồ Chí Minh",
+      "addressDistrict": "7",
+      "streetAddress":"3F – 25A, tầng 3, Crescent Mall, 101 Tôn Dật Tiên, Quận 7, TP.HCM"
+    },
+    "latitude": 10.7287362,
+    "longitude": 106.7164877,
+    "name": "SC Crescent",
+    "telephone": ["028 5413 7339"]
+  },{
+    "address": {
+      "addressRegion":"SOUTH",
+      "addressLocality": "Hồ Chí Minh",
+      "addressDistrict": "Bình Thạnh",
+      "streetAddress":"Tầng B1-K8 Landmark81, Nguyễn Hữu Cảnh, Quận Bình Thạnh, TP.HCM"
+    },
+    "latitude": 10.7950825,
+    "longitude": 106.7197341,
+    "name": "SC Landmark",
+    "telephone": ["088 872 0679"]
+  },{
+    "address": {
+      "addressRegion":"SOUTH",
+      "addressLocality": "Hồ Chí Minh",
+      "addressDistrict": "Gò Vấp",
+      "streetAddress":"159-161-163 Quang Trung, Phường 10, Quận Gò Vấp, TP.HCM"
+    },
+    "latitude": 10.8280893,
+    "longitude": 106.6726864,
+    "name": "SC Quang Trung",
+    "telephone": ["028 3894 5946"]
+  }]
+}
