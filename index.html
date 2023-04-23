@@ -15,6 +15,9 @@
     <meta property="og:description" content="Liveshow “Show của Đen” lần thứ 2 diễn ra tại thủ đô Hà Nội.">
     <meta property="og:image" content="https://denvau.vn/assets/images/upload/fb_preview.jpg">
     <link rel="preload" as="style" href="assets/styles/app.min.css">
+    <link rel="preload" as="script" href="scripts/app.min.js">
+    <link rel="preload" as="font" href="assets/fonts/fontawesome-webfont.woff2?v=4.7.0" type="font/woff2" crossorigin="anonymous">
+    <link rel="manifest" href="manifest.json">
     <link rel="apple-touch-icon" sizes="57x57" href="assets/images/apple-icon-57x57.png">
     <link rel="apple-touch-icon" sizes="60x60" href="assets/images/apple-icon-60x60.png">
     <link rel="apple-touch-icon" sizes="72x72" href="assets/images/apple-icon-72x72.png">
@@ -31,9 +34,7 @@
     <meta name="msapplication-TileColor" content="#ffffff">
     <meta name="msapplication-TileImage" content="assets/images/ms-icon-144x144.png">
     <meta name="theme-color" content="#293037">
-    <style>
-      
-    </style>
+    <style></style>
     <!-- Google tag (gtag.js)-->
     <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-QT98M88MSN"></script>
     <script>
@@ -43,24 +44,82 @@
       gtag('config', 'G-QT98M88MSN');
     </script>
   <link href="assets/styles/app.min.css" rel="stylesheet"></head>
-  <body class="loading">
+  <body class="page page-countdown">
     <noscript>JavaScript is off. Please enable to view full site.</noscript>
-    <div class="main teaser photo" role="main">
-      <h1 class="invisible-title">Show của Đen</h1>
-      <div class="logo-ltd"> <img loading="lazy" src="assets\images\upload\logo_dv_entertainment.png" alt="DV Entertaiment"></div>
-      <div class="container"> 
-        <h2 class="heading animate animate__zoomInDown">
-          <picture> 
-            <source srcset="assets\images\upload\text_show.webp" type="image/webp"><img loading="lazy" src="assets\images\upload\text_show.png" alt="Show của Đen - Hà Nội">
-          </picture>
-        </h2>
-        <div class="photo animate animate__fadeIn img">
-          <picture> 
-            <source srcset="assets\images\upload\denvau1.webp" type="image/webp"><img loading="lazy" src="assets\images\upload\denvau1.png" alt="Đen Vâu">
-          </picture>
+    <header id="header">
+      <div class="container">
+        <div class="header__top">
+          <div class="logos">
+            <div class="logo__item">
+              <p>Đơn vị tổ chức</p><a href="#" title="DV entertaiment"><img loading="lazy" src="assets/images/upload/logo_dv_entertainment.png"></a>
+            </div>
+            <div class="logo__item">
+              <p>Đơn vị đồng hành</p><a href="#" title="VietinBank"><img loading="lazy" src="assets/images/upload/logo_vietinbank.png"></a><a class="small invert" href="#" title="Strongbow"><img loading="lazy" src="assets/images/upload/logo_strongbow.png"></a>
+            </div>
+          </div><a class="hamburger-menu" data-thp-dropdown data-target="#menuWrapper" href="javascript:void(0);" title="Menu"><span></span><span></span><span></span></a>
+        </div>
+        <div class="header__bottom">
+          <div class="header__navigation thp-dropdown__menu" id="menuWrapper">
+            <nav class="nav-main">
+              <ul class="nav-main__menu">
+                <li class="nav-main__item"><a class="nav-main__link" href="index_full.html?target=sectionStadium" title="Sơ đồ" data-thp-scrollto>Sơ đồ</a>
+                </li>
+                <li class="nav-main__item"><a class="nav-main__link" href="index_full.html?target=sectionTicketStadium" title="Mua vé" data-thp-scrollto>Mua vé</a>
+                </li>
+                <li class="nav-main__item"><a class="nav-main__link" href="index_full.html?target=sectionGuest" title="Nghệ sĩ" data-thp-scrollto>Nghệ sĩ</a>
+                </li>
+                <li class="nav-main__item"><a class="nav-main__link" href="index_full.html#sectionFAQ" title="FAQ" data-thp-scrollto>Hướng dẫn</a>
+                </li>
+              </ul>
+            </nav>
+          </div>
         </div>
       </div>
+    </header>
+    <!-- h1.invisible-title Show Của Đen-->
+<section class="section section-kv" id="sectionBanner">
+  <h1 class="invisible-title">ShowCuaĐen</h1>
+  <div class="container">
+    <div class="key-visual" data-thp-script="data-thp-script" data-src="scripts/third_party/skrollr.min.js">
+      <div class="kv-main">
+        <picture> 
+          <source srcset="assets/images/upload/denvau_hq.webp" type="image/webp"><img loading="lazy" src="assets/images/upload/denvau_hq_compressed.png" alt="Show của Đen - Hà Nội">
+        </picture>
+      </div>
+      <div class="kv-text">
+        <picture> 
+          <source srcset="assets/images/upload/text_show_hq.webp" type="image/webp"><img loading="lazy" src="assets/images/upload/text_show_hq.png" width="499" height="358" alt="Show của Đen - Hà Nội">
+        </picture>
+        <h2 class="section-heading">20:00 - 27.05.2023</h2>
+        <div class="description">
+          <div class="text-uppercase">Cung điền kinh Mỹ Đình</div>
+          <div class="light">Phố Trần Hữu Dực, Cầu Diễn, Nam Từ Liêm, Hà Nội</div>
+        </div>
+        <!--.cta
+        a.btn-booking(href='#sectionTicketStadium',title='Mua vé ngay',data-thp-scrollto)
+          img(loading="lazy",src=require('../../assets/images/upload/btn_ve.png'),alt="ve")
+          span Mua vé
+        -->
+      </div>
     </div>
+    <!--.sponsors
+    a.logo(href='#',title='Highland')
+      img(loading="lazy",src=require('../../assets/images/upload/logo_highland.png'),alt="ve")
+    a.logo(href='#',title='NCT')
+      img(loading="lazy",src=require('../../assets/images/upload/logo_nct.png'),alt="ve")
+    a.logo(href='#',title='Gojek')
+      img(loading="lazy",src=require('../../assets/images/upload/logo_gojek.png'),alt="ve")
+    -->
+  </div>
+</section>
+    <!--include ../block/section__timer-->
+    <footer id="footer">
+      <div class="container text-center">
+        <h2 class="text-uppercase">Thông tin liên hệ</h2>
+        <div class="footer__link"><a href="mailto:denvau@dventertainment.vn" title="denvau@dventertainment.vn">denvau@dventertainment.vn</a></div>
+      </div>
+    </footer>
+    <input id="itemTemplatePath" type="hidden" value="./">
     <script>const mode = 'production';</script>
   <script defer src="scripts/app.min.js"></script></body>
 </html>
